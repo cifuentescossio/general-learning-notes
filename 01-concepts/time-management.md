@@ -88,12 +88,12 @@ flowchart LR
     Myth3["❌ Multitasking makes me more productive"] --> Truth3["✅ Remember 'context switching' is not good"]
     Myth4["❌ Nobody can do something better than me"] --> Truth4["✅ Delegate is to multiply our results"]
     
-    style Myth1 fill:#ffe8e8
-    style Myth2 fill:#ffe8e8
-    style Myth3 fill:#ffe8e8
-    style Myth4 fill:#ffe8e8
-    style Truth1 fill:#e8ffe8
-    style Truth2 fill:#e8ffe8
-    style Truth3 fill:#e8ffe8
-    style Truth4 fill:#e8ffe8
+    style Myth1 fill:#ffe8e8,color:#333
+    style Myth2 fill:#ffe8e8,color:#333
+    style Myth3 fill:#ffe8e8,color:#333
+    style Myth4 fill:#ffe8e8,color:#333
+    style Truth1 fill:#e8ffe8,color:#333
+    style Truth2 fill:#e8ffe8,color:#333
+    style Truth3 fill:#e8ffe8,color:#333
+    style Truth4 fill:#e8ffe8,color:#333
 ```

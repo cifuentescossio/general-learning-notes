@@ -37,7 +37,7 @@ We can use the Eisenhower Matrix to know how to prioritize a task
 
 Eisenhower Matrix:
 
-![[03-resources/img/eisenhower_matrix.png]]
+![Eisenhower Matrix](03-resources/img/eisenhower_matrix.png)
 
 Quick Wins: sometimes you can do tasks with low effort and high impact, do those ones first!
 
